@@ -1,0 +1,13 @@
+.heading-h1 {
+  text-align: center;
+  font-size: var(--font-xlg);
+  font-weight: var(--font-semibold);
+  padding-top: 1rem;
+}
+
+.heading-subtitle {
+  font-size: var(--font-md);
+  font-weight: var(--font-medium);
+  text-align: center;
+  color: #fff;
+}
